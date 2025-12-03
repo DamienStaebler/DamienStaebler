@@ -1,11 +1,12 @@
-<h1 align="center">Hi👋, I'm Damien</h1>
+<h1 align="center">Hi 👋, I'm Damien</h1>
 <h3 align="center">Developer</h3>
-<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css"> -->
-<br>
 
-- How to reach me **Damienweifen@gmail.com**
+---
 
-<h3>Tools and Languages:</h3>
+### 📫 Contact
+- **Email:** Damienweifen@gmail.com
+
+### 🛠️ Tools & Technologies
 <div align="center" id="toolsAndLanguages">
     <a href="https://code.visualstudio.com/"><img height="40" with="40" src="https://secrethub.io/img/vs-code.svg"></a>
     <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
